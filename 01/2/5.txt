@@ -1,0 +1,504 @@
+02.py
+03.py
+04.niu
+5.txt
+  114  tar -jxvf kill.tar.bz2 -G kill.tar.bz2 
+  115  tar -jxvf kill.tar.bz2 -G ~/Desktop/p1805
+  116  tar -jxvf kill.tar.bz2 -C ~/Desktop/p1805
+  117  ls
+  118  ls
+  119  cd 1805
+  120  cd p1805/
+  121  ls
+  122  cd kaoshi
+  123  ls
+  124  cat kaoshi.py 
+  125  ls
+  126  python3 kaoshi.py 
+  127  ls
+  128  ls
+  129  cd
+  130  cd -
+  131  cd ..
+  132  ls
+  133  ls
+  134  cd python8
+  135  ls
+  136  cat case.py 
+  137  ls
+  138  python3 case.py 
+  139  ls
+  140  cd ..
+  141  clear
+  142  ls
+  143  cd p1804 
+  144  ls
+  145  cd 上传p09/
+  146  ls
+  147  python3 jiudian-2.py 
+  148  python3 jiudian-2.py 
+  149  ls
+  150  python3 koujue.py 
+  151  ls
+  152  python3 chengji.py 
+  153  vim chengji.py 
+  154  python3 chengji.py 
+  155  vim chengji.py 
+  156  python3 chengji.py 
+  157  ls
+  158  cat xigua.py 
+  159  ls
+  160  ls
+  161  clear
+  162  ls
+  163  exit
+  164  ls
+  165  cd Desktop/
+  166  ls
+  167  ls
+  168  cd p1805/
+  169  ls
+  170  cd demo
+  171  ls
+  172  cat 77.java 
+  173  l
+  174  mv 77.java 77.py
+  175  ls
+  176  python3 77.py 
+  177  ls
+  178  mv 77.py 77.java
+  179  ls
+  180  cd ..
+  181  ls
+  182  init 6
+  183  pkg install vim
+  184  ls
+  185  cd p1804
+  186  ls
+  187  cd
+  188  ls
+  189  clear
+  190  ls
+  191  ls
+  192  sl
+  193  sl
+  194  sl
+  195  sl
+  196  ls
+  197  ls
+  198  ls
+  199  ls
+  200  ls
+  201  ifconfig
+  202  ls\
+  203  ls
+  204  cd Desktop/
+  205  ls
+  206  cd p1805/
+  207  ls
+  208  cd p1804
+  209  ls
+  210  cd 上传p09/
+  211  ls
+  212  ls
+  213  cd ..
+  214  cd ..
+  215  ls
+  216  ls
+  217  cd ..
+  218  ls
+  219  ls
+  220  mkdir github
+  221  ks
+  222  ls
+  223  cd github/
+  224  ls
+  225  git init
+  226  ls
+  227  ssh lizhuang@192.168.43.149
+  228  ls
+  229  ls
+  230  ls
+  231  echo "# github" >> README.md
+  232  git inti
+  233  git init
+  234  git add README.md 
+  235  git commit -m 'first commit'
+  236  git config --global user.email "859899882@qq.com"
+  237  git config --global user.name "OCC111"
+  238  git commit -m 'first commit'
+  239  git remote add origin git@github.com:OCC111/github.git
+  240  git commit -m 'first commit'
+  241  git push -u origin master
+  242  cd ~/.ssh && ssh-keyg
+  243  cd ~/.ssh && ssh-keygen
+  244  ls
+  245  cat id_rsa.pub
+  246  git push -u origin master
+  247  cd -
+  248  cd ..
+  249  ls
+  250  cd Desktop/
+  251  ls
+  252  cd github/
+  253  ls
+  254  git push -u origin master
+  255  ls
+  256  vim yu.py
+  257  python3 yu.py
+  258  ls
+  259  vim yu.py
+  260  python3 yu.py
+  261  ls
+  262  vim yu.py
+  263  python3 yu.py
+  264  clear
+  265  python3 yu.py
+  266  ls
+  267  ssh lizhuang@192.168.43.149
+  268  3
+  269  ssh lizhuang@192.168.43.149
+  270  ls
+  271  git add yu.py 
+  272  git commit -m 'hello'
+  273  git push -u origin master
+  274  ls
+  275  cat README.md 
+  276  ls
+  277  vim README.md 
+  278  ls
+  279  ls
+  280  ls
+  281  ls
+  282  ssh lizhuang@192.168.43.149
+  283  ls
+  284  touch 7.txt
+  285  ls
+  286  history
+  287  history >> 7.txt 
+  288  ls
+  289  git add 7.txt 
+  290  git commit -m 'hello'
+  291  git push -u origin master
+  292  ls
+  293  cd
+  294  ls
+  295  mv tt.py ~/Desktop/github
+  296  ls
+  297  cd -
+  298  ls
+  299  git add tt.py 
+  300  git commit -m 'jjjj'
+  301  git push -u origin master
+  302  vi shu.py
+  303  ls
+  304  ls
+  305  ssh lizhuang@192.168.43.149
+  306  ls
+  307  vim tt.py 
+  308  ls
+  309  vim tt.py 
+  310  python3 tt.py 
+  311  vim tt.py 
+  312  ls
+  313  ls
+  314  cd -
+  315  ls
+  316  cd -
+  317  ls
+  318  vim tt.py 
+  319  ls
+  320  cd
+  321  ls
+  322  cd ~/Desktop/p1805
+  323  ls
+  324  vim jiu
+  325  cd p1804
+  326  ls
+  327  vim jiudian.py 
+  328  rm -f jiudian.py 
+  329  ls
+  330  ls
+  331  cd p19
+  332  ls
+  333  cat ifde.py 
+  334  python3 uf
+  335  python3 ifde.py 
+  336  ls
+  337  vim ifde.py 
+  338  \ls
+  339  ls
+  340  cd
+  341  l
+  342  ls
+  343  ls
+  344  ls
+  345  ssh lizhuang@192.168.43.149
+  346  ls
+  347  ls
+  348  cd ~/Desktop/github/
+  349  ls
+  350  mkdir 33
+  351  ls
+  352  git add 33
+  353  git commit -m 'hello'
+  354  ls
+  355  gedit 7.txt 
+  356  cd
+  357  ls
+  358  mkdir 1805
+  359  ls
+  360  cd 1805/
+  361  ls
+  362  echo "# 1805" >> README.md
+  363  git init
+  364  git add README.md
+  365  git commit -m "first commit"
+  366  git remote add origin git@github.com:OCC111/1805.git
+  367  git push -u origin master
+  368  ls
+  369  vim yu.py
+  370  git add yu.py 
+  371  git commit -m 'hello'
+  372  git push -u origin master
+  373  ls
+  374  ls
+  375  ls -a
+  376  ls
+  377  ls
+  378  cd
+  379  cd -
+  380  ls
+  381  cd
+  382  cd -
+  383  ssh sxl@10.0.2.15
+  384  ls
+  385  ls
+  386  ls
+  387  ls
+  388  cd ..
+  389  ls
+  390  mkdir 15
+  391  ls
+  392  cd 15
+  393  ls
+  394  history
+  395  ls
+  396  ls
+  397  ls
+  398  cd
+  399  ls
+  400  cd -
+  401  ls
+  402  cd ~/Desktop/
+  403  ls
+  404  cd github/
+  405  ls
+  406  history
+  407  clear
+  408  ls
+  409  cd
+  410  ls
+  411  find game.py
+  412  find 'game.py'
+  413  ssh -T git@github.com
+  414  ls
+  415  ls
+  416  cd 15
+  417  ls
+  418  cd
+  419  s
+  420  ls
+  421  0~0~ls
+  422  ls
+  423  cd
+  424  ls
+  425  cd
+  426  cd -
+  427  ls
+  428  cd 1805
+  429  ;s
+  430  ls
+  431  cd ~
+  432  ls
+  433  vim .bash_profile
+  434  vim ~/.vimrc
+  435  vim .bash_profile
+  436  ls
+  437  ls
+  438  ls
+  439  ls
+  440  ls
+  441  ls
+  442  vim ~/ .vimrc
+  443  vim .bash_profile
+  444  source .bash_profile
+  445  ls
+  446  touch 4.py
+  447  ls
+  448  cat 4.py
+  449  ls
+  450  ls
+  451  ls
+  452  clear
+  453  ls
+  454  cat yu.py 
+  455  python3 yu.py 
+  456  ls
+  457  cd 1805
+  458  ls
+  459  mkdir 2
+  460  ls
+  461  cd
+  462  ls
+  463  vim yu.py 
+  464  ls
+  465  ls
+  466  ls
+  467  ls
+  468  ls
+  469  ls
+  470  ls
+  471  clear
+  472  ls
+  473  cd
+  474  ls
+  475  clear
+  476  ls
+  477  cd 1805
+  478  ls
+  479  ls
+  480  ll
+  481  ls -lh
+  482  cd 2
+  483  ls
+  484  ls
+  485  cd
+  486  ls
+  487  rm -rf yu.py 
+  488  ls
+  489  ls
+  490  cd 1805
+  491  l
+  492  ls
+  493  cd
+  494  cd -
+  495  samblem
+  496  clear
+  497  ls
+  498  ls
+  499  ssh lizhuang@192.168.43.149
+  500  ls
+  501  ls
+  502  cd Desktop/
+  503  ls
+  504  cd p1805
+  505  ls
+  506  python3 ouxunhuan.py 
+  507  ls
+  508  claer
+  509  clear
+  510  ls
+  511  python3 def_fish.py 
+  512  ls
+  513  cd p1804
+  514  ls
+  515  cd 上传p09/
+  516  ls
+  517  ls
+  518  cd ~
+  519  ls
+  520  ls
+  521  clear
+  522  ls
+  523  ls
+  524  ls
+  525  tree 15
+  526  ls
+  527  cd 15
+  528  ls
+  529  mkdir 5/6 -p
+  530  clear
+  531  ls
+  532  rm -rf *
+  533  ls
+  534  clear
+  535  ls
+  536  cd
+  537  ls
+  538  mv 4.py 5.py
+  539  ls
+  540  mv 5.py ~/1805
+  541  ls
+  542  cd 1805
+  543  ls
+  544  ls
+  545  clear
+  546  ls
+  547  tar -cvf test.tar *
+  548  ls
+  549  ls
+  550  rm test.tar
+  551  ls
+  552  tar -cfv test.tar
+  553  tar -cvf test.tar
+  554  tar -cfv test.tar *
+  555  tar -cvf test.tar *
+  556  ls
+  557  clear
+  558  ls
+  559  tar -zcvf 888.tar.gz *.py
+  560  ls
+  561  ls -lh
+  562  tar -cvf 777.tar *.py
+  563  ls -lh
+  564  ls
+  565  clear
+  566  ls
+  567  tar -jcvf 999.tar.bz2 *
+  568  ls
+  569  ls -lh
+  570  ls
+  571  clear
+  572  ls
+  573  ls
+  574  ls
+  575  clear
+  576  ls
+  577  mkdir 3
+  578  ls
+  579   tar -zxvf 888.tar.gz -C 3/
+  580  ls
+  581  cd 3
+  582  ls
+  583  ls
+  584  clear
+  585  ls
+  586  cd ..
+  587  ls
+  588  which cp
+  589  which which
+  590  ls
+  591  which ls
+  592  ls
+  593  clear
+  594  mkdir 01
+  595  ls
+  596  cd 01
+  597  touch 02.py 03.py 04.niu
+  598  ls
+  599  ls
+  600  tar -jcvf 8888.tar.bz2
+  601  tar -jcvf 8888.tar.bz2 *
+  602  ls
+  603  mkdir 2
+  604  ls
+  605  tar -jxvf 8888.tar.bz2 -C 2/
+  606  ls
+  607  cd 2
+  608  ls
+  609  ls > 5.txt
+  610  ls
+  611  cat 5.txt 
+  612  history
+  613  history >> 5.txt 
